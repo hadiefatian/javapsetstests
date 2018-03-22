@@ -1,11 +1,10 @@
 package at.refugeescode.javapsetstests.pset2.controller;
 
-import oop.opencoding.pset2.controller.player.HumanPlayer;
-import oop.opencoding.pset2.controller.player.Player;
-import oop.opencoding.pset2.controller.player.Players;
-import oop.opencoding.pset2.model.move.Move;
-import oop.opencoding.pset2.model.Result;
-import oop.opencoding.pset2.view.Host;
+import at.refugeescode.javapsetstests.pset2.controller.player.Player;
+import at.refugeescode.javapsetstests.pset2.controller.player.Players;
+import at.refugeescode.javapsetstests.pset2.model.Result;
+import at.refugeescode.javapsetstests.pset2.model.move.Move;
+import at.refugeescode.javapsetstests.pset2.view.Host;
 
 import java.util.List;
 

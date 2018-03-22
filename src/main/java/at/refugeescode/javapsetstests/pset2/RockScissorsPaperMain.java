@@ -1,6 +1,6 @@
 package at.refugeescode.javapsetstests.pset2;
 
-import oop.opencoding.pset2.controller.RockScissorsPaperGame;
+import at.refugeescode.javapsetstests.pset2.controller.RockScissorsPaperGame;
 
 public class RockScissorsPaperMain {
 
@@ -8,3 +8,4 @@ public class RockScissorsPaperMain {
         new RockScissorsPaperGame().play();
     }
 }
+

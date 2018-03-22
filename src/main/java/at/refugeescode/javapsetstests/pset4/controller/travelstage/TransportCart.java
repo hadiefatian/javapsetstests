@@ -1,6 +1,6 @@
 package at.refugeescode.javapsetstests.pset4.controller.travelstage;
 
-import oop.opencoding.pset4.model.Luggage;
+import at.refugeescode.javapsetstests.pset4.model.Luggage;
 
 import java.time.Duration;
 

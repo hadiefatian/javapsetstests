@@ -1,11 +1,11 @@
 package at.refugeescode.javapsetstests.pset1.controller;
 
-import oop.opencoding.pset1.model.Actor;
-import oop.opencoding.pset1.model.Gender;
-import oop.opencoding.pset1.model.Movie;
-import oop.opencoding.pset1.model.Summary;
-import oop.opencoding.pset1.parser.ActorParser;
-import oop.opencoding.pset1.parser.MovieParser;
+import at.refugeescode.javapsetstests.pset1.model.Actor;
+import at.refugeescode.javapsetstests.pset1.model.Gender;
+import at.refugeescode.javapsetstests.pset1.model.Movie;
+import at.refugeescode.javapsetstests.pset1.model.Summary;
+import at.refugeescode.javapsetstests.pset1.parser.ActorParser;
+import at.refugeescode.javapsetstests.pset1.parser.MovieParser;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
@@ -19,8 +19,8 @@ public class MovieDatabaseSummarizer {
         MovieParser movieParser = new MovieParser();
         ActorParser actorParser = new ActorParser();
 
-        List<Movie> movies = movieParser.asList("src/oop/opencoding/pset1/data/movies.csv");
-        List<Actor> actors = actorParser.asList("src/oop/opencoding/pset1/data/actors.csv");
+        List<Movie> movies = movieParser.asList("src/main/java/at/refugeescode/javapsetstests/pset1/data/movies.csv");
+        List<Actor> actors = actorParser.asList("src/main/java/at/refugeescode/javapsetstests/pset1/data/actors.csv");
 
         Summary summary = new Summary();
         summary.setNumberOfMovies(movies.size());

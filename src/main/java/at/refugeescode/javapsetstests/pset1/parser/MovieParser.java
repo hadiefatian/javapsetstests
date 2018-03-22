@@ -1,6 +1,6 @@
 package at.refugeescode.javapsetstests.pset1.parser;
 
-import oop.opencoding.pset1.model.Movie;
+import at.refugeescode.javapsetstests.pset1.model.Movie;
 
 import java.util.ArrayList;
 import java.util.Arrays;

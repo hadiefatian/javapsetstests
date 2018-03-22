@@ -1,6 +1,6 @@
 package at.refugeescode.javapsetstests.pset1.view;
 
-import oop.opencoding.pset1.model.Summary;
+import at.refugeescode.javapsetstests.pset1.model.Summary;
 
 public class SummaryDisplayer {
 

@@ -1,8 +1,8 @@
 package at.refugeescode.javapsetstests.pset1;
 
-import oop.opencoding.pset1.controller.MovieDatabaseSummarizer;
-import oop.opencoding.pset1.model.Summary;
-import oop.opencoding.pset1.view.SummaryDisplayer;
+import at.refugeescode.javapsetstests.pset1.controller.MovieDatabaseSummarizer;
+import at.refugeescode.javapsetstests.pset1.model.Summary;
+import at.refugeescode.javapsetstests.pset1.view.SummaryDisplayer;
 
 public class Pset1Main {
 

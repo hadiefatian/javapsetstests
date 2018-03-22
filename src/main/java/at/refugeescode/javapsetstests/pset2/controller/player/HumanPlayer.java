@@ -1,7 +1,7 @@
 package at.refugeescode.javapsetstests.pset2.controller.player;
 
-import oop.opencoding.pset2.model.move.Move;
-import oop.opencoding.pset2.model.move.Moves;
+import at.refugeescode.javapsetstests.pset2.model.move.Move;
+import at.refugeescode.javapsetstests.pset2.model.move.Moves;
 
 import java.util.Optional;
 import java.util.Scanner;

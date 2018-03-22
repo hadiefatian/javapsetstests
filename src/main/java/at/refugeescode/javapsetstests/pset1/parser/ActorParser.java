@@ -1,7 +1,7 @@
 package at.refugeescode.javapsetstests.pset1.parser;
 
-import oop.opencoding.pset1.model.Actor;
-import oop.opencoding.pset1.model.Gender;
+import at.refugeescode.javapsetstests.pset1.model.Actor;
+import at.refugeescode.javapsetstests.pset1.model.Gender;
 
 import java.util.ArrayList;
 import java.util.List;

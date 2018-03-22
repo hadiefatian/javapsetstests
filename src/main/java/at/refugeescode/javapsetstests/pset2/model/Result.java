@@ -1,6 +1,6 @@
 package at.refugeescode.javapsetstests.pset2.model;
 
-import oop.opencoding.pset2.model.move.Move;
+import at.refugeescode.javapsetstests.pset2.model.move.Move;
 
 public class Result {
 

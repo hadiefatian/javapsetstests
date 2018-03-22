@@ -1,7 +1,7 @@
 package at.refugeescode.javapsetstests.pset2.view;
 
-import oop.opencoding.pset2.model.Result;
-import oop.opencoding.pset2.model.move.Move;
+import at.refugeescode.javapsetstests.pset2.model.Result;
+import at.refugeescode.javapsetstests.pset2.model.move.Move;
 
 public class Host {
 
