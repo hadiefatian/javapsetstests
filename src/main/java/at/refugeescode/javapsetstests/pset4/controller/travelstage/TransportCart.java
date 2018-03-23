@@ -11,7 +11,7 @@ public class TransportCart implements TravelStage {
         // TODO add 25 minutes to the processing time
 
         Duration waitingDuration = luggage.getWaitingDuration();
-        Duration updatedDuration = waitingDuration.plusMinutes(25);
+        Duration updatedDuration = waitingDuration.plusMinutes(30);
         luggage.setWaitingDuration(updatedDuration);
         return luggage;
     }
